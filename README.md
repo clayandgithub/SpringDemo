@@ -1,1 +1,3 @@
-"# SpringDemo\nA demo project of spring MVC" 
+# SpringDemo
+
+A demo project of spring MVC
